@@ -1,0 +1,8 @@
+.openai/
+.DS_Store
+.env
+.env.*
+node_modules/
+.pages-build/
+*.log
+*.tmp
